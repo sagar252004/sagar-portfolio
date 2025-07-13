@@ -36,7 +36,7 @@ const projects = [
     ],
     image: gainguruImage,
     github: "https://github.com/sagar252004/GainGuru",
-    live: "https://gain-guru-seven.vercel.app/home",
+    live: "https://gain-guru-seven.vercel.app/",
   },
   {
     id: 3,
